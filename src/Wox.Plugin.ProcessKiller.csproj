@@ -8,8 +8,8 @@
     <ProjectGuid>{86BE9D87-3289-4D7F-BC9D-EC19418A1E2A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Wox.Plugin.AdvanceKill</RootNamespace>
-    <AssemblyName>Wox.Plugin.AdvanceKill</AssemblyName>
+    <RootNamespace>Wox.Plugin.ProcessKiller</RootNamespace>
+    <AssemblyName>Wox.Plugin.ProcessKiller</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
