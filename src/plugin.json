@@ -1,0 +1,11 @@
+{
+    "ID":"D2D2C23B084D411DB66EE0C79D6C2A6C",
+    "ActionKeyword":"kill",
+    "Name":"Wox.Plugin.ProcessKiller",
+    "Description":"kill process",
+    "Author":"cxfksword",
+    "Version":"1.0",
+    "Language":"csharp",
+    "Website":"https://github.com/cxfksword/Wox.Plugin.ProcessKiller",
+    "ExecuteFileName":"Wox.Plugin.ProcessKiller.dll"
+}
