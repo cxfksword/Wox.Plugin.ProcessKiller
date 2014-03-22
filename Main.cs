@@ -33,7 +33,7 @@ namespace Wox.Plugin.ProcessKiller
             List<Process> processlist = new List<Process>();
             if (query.ActionParameters.Count == 0)
             {
-                // show all process order by cpu
+                // show all process
                 var processes = Process.GetProcesses();
                 foreach (Process p in processes)
                 {
