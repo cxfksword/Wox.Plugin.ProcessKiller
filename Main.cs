@@ -10,6 +10,7 @@ namespace Wox.Plugin.ProcessKiller
     public class Main : IPlugin
     {
         private static List<string> systemProcessList = new List<string>(){
+            "conhost",
             "svchost",
             "idle",
             "system",
