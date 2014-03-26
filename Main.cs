@@ -56,7 +56,7 @@ namespace Wox.Plugin.ProcessKiller
                     if (systemProcessList.Contains(name))
                         continue;
 
-                    if (p.ProcessName.ToLower().Contains(keyword))
+                    if ((p.ProcessName + p.Id).ToLower().Contains(keyword))
                     {
                         processlist.Add(p);
                     }

@@ -4,7 +4,7 @@
     "Name":"Wox.Plugin.ProcessKiller",
     "Description":"make easy to kill process",
     "Author":"cxfksword",
-    "Version":"1.0",
+    "Version":"1.0.1",
     "Language":"csharp",
     "Website":"https://github.com/cxfksword/Wox.Plugin.ProcessKiller",
     "ExecuteFileName":"Wox.Plugin.ProcessKiller.dll"
